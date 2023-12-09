@@ -5,3 +5,4 @@ draft = false
 +++
 # Diary
 I still love you today,and i will do like that more tomorrow.
+More than yesterday,less than tomorrow.
