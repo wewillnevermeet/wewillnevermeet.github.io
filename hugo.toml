@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'Li'
 defaultContentLanguage = 'zh'
 theme = 'PaperMod'
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
