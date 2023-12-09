@@ -1,6 +1,6 @@
 baseURL = 'https://wewillnevermeet.github.io'
 languageCode = 'en-us'
-title = 'Li'
+title = '世间的一切都值得纪念'
 defaultContentLanguage = 'zh'
 theme = 'PaperMod'
 [params]
