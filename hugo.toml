@@ -4,9 +4,9 @@ title = '世间的一切都值得纪念'
 defaultContentLanguage = 'zh'
 theme = 'PaperMod'
 [params]
-ShowReadingTime = true
+ShowReadingTime = false
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
-ShowWordCount = true
+ShowCodeCopyButtons = true
+ShowWordCount = false
