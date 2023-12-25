@@ -5,7 +5,7 @@ defaultContentLanguage = 'zh'
 theme = 'PaperMod'
 [params]
 ShowReadingTime = false
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
