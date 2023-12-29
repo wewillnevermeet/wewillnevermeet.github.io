@@ -5,4 +5,6 @@ draft = false
 +++
 # 张朔
 “随波逐流的船，漫无边际的海”
-![](image/t1.png)
+![][def]
+
+[def]: image/t1.png
