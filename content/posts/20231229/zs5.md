@@ -8,4 +8,4 @@ draft = false
 ![][def]
 
 
-[def]: /home/ailin/qqimage/ti.png
+[def]: /home/ailin/qqimage/t1.png
