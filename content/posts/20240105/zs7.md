@@ -8,3 +8,4 @@ draft = false
 他的父亲安葬好她后，  
 那个所谓的无所不能的男人，  
 却不敢回头看一眼。
+![](/image/yiling.jpg)
