@@ -357,8 +357,8 @@ params:
   # Links of your friends
   # Usage: `Key: name || permalink`
   links: 
-    link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-    link1: 凡梦星尘空间站 || https://lisenhui.cn
+    link0: 看看其他大佬的博客 || https://blog.fireheart.space
+    link1: 玩个小游戏吧 || http://47.94.234.189/
 
   # 文章目录显示
   # Table of Contents in the Sidebar
