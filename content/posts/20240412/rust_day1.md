@@ -1,10 +1,10 @@
 +++
-title = 'Rust_day1'
+title = 'First try of RUST'
 date = 2024-04-12T18:03:35+08:00
 draft = false
 +++
 
-# first try of rust
+# First try of rust
 It's security is really excellent!!!!!
 ```rust
 use std::io;//prelude
