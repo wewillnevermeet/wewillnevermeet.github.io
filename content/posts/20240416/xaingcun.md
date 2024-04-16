@@ -4,9 +4,9 @@ date = 2024-04-16T12:14:11+08:00
 draft = false
 +++
 
-# 你心中的农村是什么样的呢？
-## 那你又是否愿意俯身农村，去农村发展吗？
-### 为什么呢
+**你心中的农村是什么样的呢**
+**那你又是否愿意俯身农村，去农村发展吗？**
+**为什么呢**
 
 
 ![](/image/xc1.png)
@@ -26,21 +26,34 @@ draft = false
 
 没错，就像图片所展示的这样，现在想起来我的家乡，我首先会想起还不错的楼房，金黄的落日和轻轻略过的风，慢悠悠的生活节奏和朴实的人。
 
-# 我国的乡村振兴计划
+相信老一辈人更能见证我国农村的发展，我们小组成员做了一次采访
+（两位长辈比较腼腆没有露面）
+[](https://v.douyin.com/iYCRBV5e/)
 
+
+# 我国的乡村振兴计划
 ## 你了解乡村振兴吗？
 
-乡村振兴战略的主要内容包括以下几个方面：
+乡村振兴战略的主要内容包括以下几个方面：  
 
-1.产业发展：促进农村产业结构的调整与升级，发展现代农业，加强农产品加工业，拓展农村电商、乡村旅游等新兴产业，提高农民收入。
-2.基础设施建设：改善农村基础设施条件，包括道路、水利、电力、通讯等，提高农村居民的生活质量。
-3.生态保护：加强农村生态环境保护和治理，推进绿色生产，改善农村人居环境，建设美丽宜居的乡村。
-4.文化传承：弘扬农村优秀传统文化，发展乡村文化产业，提升农村文化软实力。
-5.乡村治理：加强农村基层党组织建设，完善乡村治理体系，提高乡村治理能力和水平。
-6.扶贫攻坚：继续推进精准扶贫工作，提高农村贫困地区的基础设施和公共服务水平，助力贫困人口脱贫致富。
-7.人才培养：鼓励各类人才投身乡村振兴，提高农村教育水平，培养新型职业农民，为乡村振兴提供人才支持。
+1.产业发展：促进农村产业结构的调整与升级，发展现代农业，加强农产品加工业，拓展农村电商、乡村旅游等新兴产业，提高农民收入。  
+
+2.基础设施建设：改善农村基础设施条件，包括道路、水利、电力、通讯等，提高农村居民的生活质量。  
+
+3.生态保护：加强农村生态环境保护和治理，推进绿色生产，改善农村人居环境，建设美丽宜居的乡村。  
+
+4.文化传承：弘扬农村优秀传统文化，发展乡村文化产业，提升农村文化软实力。  
+
+5.乡村治理：加强农村基层党组织建设，完善乡村治理体系，提高乡村治理能力和水平。  
+
+6.扶贫攻坚：继续推进精准扶贫工作，提高农村贫困地区的基础设施和公共服务水平，助力贫困人口脱贫致富。  
+
+7.人才培养：鼓励各类人才投身乡村振兴，提高农村教育水平，培养新型职业农民，为乡村振兴提供人才支持。  
+
 
 然而，乡村振兴战略的实施需要各级政府、企事业单位和社会各界共同努力，从而实现农村经济、社会、文化和生态的全面振兴。
+
+
 
 ## 为了推动乡村振兴战略，我国出台了很多文件
 
@@ -61,7 +74,7 @@ draft = false
 影响农村发展的因素有很多  
 其中，人口流无疑是最严重的  
 有多严重？请看视频：
-[](http://v3-default.ixigua.com/fd8c6ae1feba522a1ab0c17b0de85907/661e1904/video/tos/cn/tos-cn-ve-15/d69f38a4e9f4405bb63bfda17e51cb64/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&br=224&bt=224&cs=0&ds=2&ft=ahW46QQqUnXfmoZmo0OW_QYaUqiX1wM2xVJEb9Lv3bPD-Ipz&mime_type=video_mp4&qs=0&rc=aDVoaTM3NjhkZjZnNzplN0BpamZ3OmRqbzR3eTMzZGkzM0BiMTQ2NjItXjYxNi01XjJiYSNiY28zZzZuYGtfLS1hLTBzcw%3D%3D&btag=e00030000&dy_q=1713244673&l=20240416131753125FC899898F26A0ED87)
+[城市化带来的人口流动](http://v3-default.ixigua.com/fd8c6ae1feba522a1ab0c17b0de85907/661e1904/video/tos/cn/tos-cn-ve-15/d69f38a4e9f4405bb63bfda17e51cb64/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&br=224&bt=224&cs=0&ds=2&ft=ahW46QQqUnXfmoZmo0OW_QYaUqiX1wM2xVJEb9Lv3bPD-Ipz&mime_type=video_mp4&qs=0&rc=aDVoaTM3NjhkZjZnNzplN0BpamZ3OmRqbzR3eTMzZGkzM0BiMTQ2NjItXjYxNi01XjJiYSNiY28zZzZuYGtfLS1hLTBzcw%3D%3D&btag=e00030000&dy_q=1713244673&l=20240416131753125FC899898F26A0ED87)
 
 # 谈谈我的家乡农村--张家口
 
@@ -71,7 +84,7 @@ draft = false
 近年来，随着中国经济的快速发展，  
 张家口市的农业和农村也发生了巨大的变化。
 
-!(现代化农业)[]
+![](/image/xc7.png)
 
 为了提高农业生产效率和农民收入，  
 张家口市积极推进农业现代化。  
@@ -93,17 +106,22 @@ draft = false
 以实现农村经济多元化发展。
 ## 农村旅游业
 
-我的家乡，张北县，北接内蒙古，享有大片的草原和林地
-春天，我们感受着“草色遥看近却无”的春意
-夏天，我们可以看到“树木丛生，百草丰茂”的生机
-秋天，我们可以享受“霜叶红于二月花”的秋意
-作为北方高海拔城市，冬天更是“银装素裹，分外妖娆”
+我的家乡，张北县，北接内蒙古，享有大片的草原和林地  
+
+春天，我们感受着“草色遥看近却无”的春意  
+
+夏天，我们可以看到“树木丛生，百草丰茂”的生机  
+
+秋天，我们可以享受“霜叶红于二月花”的秋意  
+
+作为北方高海拔城市，冬天更是“银装素裹，分外妖娆”  
+
 
 ## 文字总归是冰冷的，不看看怎么知道
 
-[](http://v9-default.ixigua.com/32bef9e0149bf68e3b5e59aa6c17e398/661e11ac/video/tos/cn/tos-cn-ve-15/oQD9bPIoane9z4njBgbwe1ANg6QD0qJuAC9lXA/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2243&bt=2243&cs=0&ds=3&ft=kTh_HVVywIiRZm8Zmo~pK7pswApXf6DwvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ODg7ZTs0OjozNTw3ZTZoN0BpMzRxaWc6ZmU1cTMzNGkzM0BfXzIvNDBeNV4xMDRjNDJeYSNwMGlhcjRncW5gLS1kLWFzcw%3D%3D&btag=e00028000&dy_q=1713242958&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202404161249172F4757FD5AFEC69CCD9C)
+[张北草原天路](http://v9-default.ixigua.com/32bef9e0149bf68e3b5e59aa6c17e398/661e11ac/video/tos/cn/tos-cn-ve-15/oQD9bPIoane9z4njBgbwe1ANg6QD0qJuAC9lXA/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2243&bt=2243&cs=0&ds=3&ft=kTh_HVVywIiRZm8Zmo~pK7pswApXf6DwvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ODg7ZTs0OjozNTw3ZTZoN0BpMzRxaWc6ZmU1cTMzNGkzM0BfXzIvNDBeNV4xMDRjNDJeYSNwMGlhcjRncW5gLS1kLWFzcw%3D%3D&btag=e00028000&dy_q=1713242958&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202404161249172F4757FD5AFEC69CCD9C)
 
-![](/image/sayback.jpg)
+![张北草原天路](/image/sayback.jpg)
 但是话又说回来，视频只能看到，亲身体验才是最佳选择
 
 # 鸣谢
