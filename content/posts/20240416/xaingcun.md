@@ -116,7 +116,7 @@ draft = false
 # 呼吁
 
 中国青年报：乡村振兴呼吁青年人才
-![](/image/xc8.jepg)
+![](/image/xc8.png)
 
 ---
 
