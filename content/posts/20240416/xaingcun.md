@@ -62,6 +62,7 @@ draft = false
 其中，人口流无疑是最严重的  
 有多严重？请看视频：
 [城市化带来的人口流动](http://v3-default.ixigua.com/fd8c6ae1feba522a1ab0c17b0de85907/661e1904/video/tos/cn/tos-cn-ve-15/d69f38a4e9f4405bb63bfda17e51cb64/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&br=224&bt=224&cs=0&ds=2&ft=ahW46QQqUnXfmoZmo0OW_QYaUqiX1wM2xVJEb9Lv3bPD-Ipz&mime_type=video_mp4&qs=0&rc=aDVoaTM3NjhkZjZnNzplN0BpamZ3OmRqbzR3eTMzZGkzM0BiMTQ2NjItXjYxNi01XjJiYSNiY28zZzZuYGtfLS1hLTBzcw%3D%3D&btag=e00030000&dy_q=1713244673&l=20240416131753125FC899898F26A0ED87)
+[备用链接](https://v.douyin.com/iYx3BftD/)
 
 # 谈谈我的家乡农村--张家口
 
@@ -106,7 +107,7 @@ draft = false
 
 ## 文字总归是冰冷的，不看看怎么知道
 
-[张北草原天路](http://v9-default.ixigua.com/32bef9e0149bf68e3b5e59aa6c17e398/661e11ac/video/tos/cn/tos-cn-ve-15/oQD9bPIoane9z4njBgbwe1ANg6QD0qJuAC9lXA/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2243&bt=2243&cs=0&ds=3&ft=kTh_HVVywIiRZm8Zmo~pK7pswApXf6DwvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ODg7ZTs0OjozNTw3ZTZoN0BpMzRxaWc6ZmU1cTMzNGkzM0BfXzIvNDBeNV4xMDRjNDJeYSNwMGlhcjRncW5gLS1kLWFzcw%3D%3D&btag=e00028000&dy_q=1713242958&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202404161249172F4757FD5AFEC69CCD9C)
+[张北草原天路](https://v.douyin.com/iYxcAXxV/)
 
 ![张北草原天路](/image/sayback.jpg)
 但是话又说回来，视频只能看到，亲身体验才是最佳选择
