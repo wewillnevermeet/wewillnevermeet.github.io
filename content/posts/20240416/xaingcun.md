@@ -9,9 +9,10 @@ draft = false
 ### 为什么呢
 
 
-!()[/image/xc1.png]
-!()[/image/xc2.png]
-!()[/image/xc3.png]
+![](/image/xc1.png)
+![](/image/xc2.png)
+![](/image/xc3.png)
+
 这可能是某些从小生活在农村里的人印象的农村的样子。  
 ”面朝黄土背朝天，扛着锄头吸着烟“
 当然这只是我儿时印象中农村的样子，现在已大有不同
@@ -19,9 +20,10 @@ draft = false
 ---
 
 
-!()[/image/xc4.png]
-!()[/image/xc5.png]
-!()[/image/xc6.png]
+![](/image/xc4.png)
+![](/image/xc5.png)
+![](/image/xc6.png)
+
 没错，就像图片所展示的这样，现在想起来我的家乡，我首先会想起还不错的楼房，金黄的落日和轻轻略过的风，慢悠悠的生活节奏和朴实的人。
 
 # 我国的乡村振兴计划
@@ -59,11 +61,11 @@ draft = false
 影响农村发展的因素有很多  
 其中，人口流无疑是最严重的  
 有多严重？请看视频：
-()[http://v3-default.ixigua.com/fd8c6ae1feba522a1ab0c17b0de85907/661e1904/video/tos/cn/tos-cn-ve-15/d69f38a4e9f4405bb63bfda17e51cb64/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&br=224&bt=224&cs=0&ds=2&ft=ahW46QQqUnXfmoZmo0OW_QYaUqiX1wM2xVJEb9Lv3bPD-Ipz&mime_type=video_mp4&qs=0&rc=aDVoaTM3NjhkZjZnNzplN0BpamZ3OmRqbzR3eTMzZGkzM0BiMTQ2NjItXjYxNi01XjJiYSNiY28zZzZuYGtfLS1hLTBzcw%3D%3D&btag=e00030000&dy_q=1713244673&l=20240416131753125FC899898F26A0ED87]
+[](http://v3-default.ixigua.com/fd8c6ae1feba522a1ab0c17b0de85907/661e1904/video/tos/cn/tos-cn-ve-15/d69f38a4e9f4405bb63bfda17e51cb64/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&br=224&bt=224&cs=0&ds=2&ft=ahW46QQqUnXfmoZmo0OW_QYaUqiX1wM2xVJEb9Lv3bPD-Ipz&mime_type=video_mp4&qs=0&rc=aDVoaTM3NjhkZjZnNzplN0BpamZ3OmRqbzR3eTMzZGkzM0BiMTQ2NjItXjYxNi01XjJiYSNiY28zZzZuYGtfLS1hLTBzcw%3D%3D&btag=e00030000&dy_q=1713244673&l=20240416131753125FC899898F26A0ED87)
 
 # 谈谈我的家乡农村--张家口
 
-!()[/image/zjk.jpg]
+![](/image/zjk.jpg)
 张家口市位于中国河北省西北部，  
 拥有丰富的农业和农村资源。  
 近年来，随着中国经济的快速发展，  
@@ -99,8 +101,9 @@ draft = false
 
 ## 文字总归是冰冷的，不看看怎么知道
 
-()[http://v9-default.ixigua.com/32bef9e0149bf68e3b5e59aa6c17e398/661e11ac/video/tos/cn/tos-cn-ve-15/oQD9bPIoane9z4njBgbwe1ANg6QD0qJuAC9lXA/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2243&bt=2243&cs=0&ds=3&ft=kTh_HVVywIiRZm8Zmo~pK7pswApXf6DwvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ODg7ZTs0OjozNTw3ZTZoN0BpMzRxaWc6ZmU1cTMzNGkzM0BfXzIvNDBeNV4xMDRjNDJeYSNwMGlhcjRncW5gLS1kLWFzcw%3D%3D&btag=e00028000&dy_q=1713242958&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202404161249172F4757FD5AFEC69CCD9C]
+[](http://v9-default.ixigua.com/32bef9e0149bf68e3b5e59aa6c17e398/661e11ac/video/tos/cn/tos-cn-ve-15/oQD9bPIoane9z4njBgbwe1ANg6QD0qJuAC9lXA/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2243&bt=2243&cs=0&ds=3&ft=kTh_HVVywIiRZm8Zmo~pK7pswApXf6DwvrKttUc2do0g3cI&mime_type=video_mp4&qs=0&rc=ODg7ZTs0OjozNTw3ZTZoN0BpMzRxaWc6ZmU1cTMzNGkzM0BfXzIvNDBeNV4xMDRjNDJeYSNwMGlhcjRncW5gLS1kLWFzcw%3D%3D&btag=e00028000&dy_q=1713242958&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202404161249172F4757FD5AFEC69CCD9C)
 
-!(话又说回来)[]
+![](/image/sayback.jpg)
 但是话又说回来，视频只能看到，亲身体验才是最佳选择
 
+# 鸣谢
