@@ -7,7 +7,7 @@ draft = false
 # 正则表达式
 很久没写笔记了，写点正则表达式吧
   
-![正则](/image/截图 2024-09-24 19-06-44.png)
+![正则](/image/regex.png)
 
   
 图片来自bilibili：geekhour
