@@ -55,7 +55,7 @@ markup:
     lineNumbersInTable: false
     noClasses: true
     noHl: false
-    style: monokai
+    style: friendly
     tabWidth: 2
   tableOfContents:
     # 开始/结束标题级别：1-6 (建议从2开始)
