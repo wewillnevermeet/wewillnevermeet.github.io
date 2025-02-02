@@ -1,8 +1,9 @@
 +++
-title = 'AboutRemoteClipboard'
+title = '远程共享粘贴板'
 date = 2025-02-02T19:42:33+08:00
 draft = false
 +++
+
 # Remote Clipboard: 高效跨设备剪贴板同步系统
 
 ## 项目背景
